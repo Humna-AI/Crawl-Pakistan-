@@ -1,0 +1,301 @@
+http://www.pbs.gov.pk/node/1110 | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+http://www.pbs.gov.pk/content/field-services | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+http://www.pbs.gov.pk/contacts | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+http://www.pbs.gov.pk/contact/deputy-census-commissioner-g | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+http://www.pbs.gov.pk/content/price-statistics | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+http://www.pbs.gov.pk/content/foreign-training-workshop-seminar | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+http://www.pbs.gov.pk/content/faqs | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+http://www.pbs.gov.pk/form/data-information-request-form | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+http://www.pbs.gov.pk/content/national-health-accounts | Description: Government or educational webpage (e.g., policy, service description, or educational material)
+https://www.finance.gov.pk/notifications/PF_5_799_11032025.pdf
+https://www.finance.gov.pk/notifications/F_05_183_09102024.pdf
+https://www.finance.gov.pk/notifications/OO_24032025_1.pdf
+https://www.finance.gov.pk/notifications/PF_5_621_27032025.pdf
+https://www.finance.gov.pk/notifications/PF_05_766_19022025.pdf
+https://www.finance.gov.pk/notifications/oo_81_15042025.pdf
+https://www.finance.gov.pk/notifications/PF_5_719_17032025.pdf
+https://www.finance.gov.pk/notifications/PF_5_767_11032025.pdf
+https://www.finance.gov.pk/notifications/OO_171_13112024.pdf
+https://www.finance.gov.pk/notifications/PF_5_807_19032025.pdf
+https://www.finance.gov.pk/notifications/PF_5_812_20032025.pdf
+https://www.finance.gov.pk/notifications/PF_5_766_18032025.pdf
+https://www.finance.gov.pk/notifications/OO_34_2025_29012025.pdf
+https://www.finance.gov.pk/notifications/PF_04_526_09012025.pdf
+https://www.finance.gov.pk/notifications/PF_04_621_17102024.pdf
+https://www.finance.gov.pk/notifications/PF_16_30_05112024.pdf
+https://www.finance.gov.pk/notifications/OO_83_15042025.pdf
+https://www.finance.gov.pk/notifications/OO_13_10012025.pdf
+https://www.finance.gov.pk/notifications/OO_173_18112024.pdf
+https://www.finance.gov.pk/notifications/F_10_27_17032025.pdf
+https://www.finance.gov.pk/notifications/OO_178_28112024.pdf
+https://www.finance.gov.pk/notifications/PF_5_802_11032025.pdf
+https://www.finance.gov.pk/notifications/OO_36_30012025.pdf
+https://www.finance.gov.pk/notifications/PF_5_812_11032025.pdf
+https://www.finance.gov.pk/notifications/OO_163_30102024.pdf
+https://www.finance.gov.pk/poverty/training_11012024_2.pdf
+https://www.finance.gov.pk/poverty/training_14072023_2.pdf
+https://www.finance.gov.pk/poverty/training_25102023_2.pdf
+https://www.finance.gov.pk/poverty/training_30012025.pdf
+https://www.finance.gov.pk/poverty/training_16052023.pdf
+https://fabs.gov.pk/downloads/User Manual-Online Billing Solution ver 2.0 November 2022.pdf
+https://fabs.gov.pk/downloads/1-PID Letter and Ad for Hiring of Consultants-Staff -20 Positions.pdf
+https://fabs.gov.pk/downloads/RFP-39 Data centre Advertisement, TORs, and Criter_231226_220720.pdf
+https://fabs.gov.pk/downloads/AGPR's User Manual-Punching of AAA Schedules.pdf
+https://fabs.gov.pk/downloads/CISCO ISE VPN Manual Guide for Users.pdf
+https://fabs.gov.pk/downloads/DDO's User Manual-Online Submission of AAA Schedules.pdf
+https://fabs.gov.pk/downloads/E-Reconciliation of Assan Assignment Account Manual.pdf
+https://fabs.gov.pk/downloads/Logical sap Access Request Form.pdf
+https://fabs.gov.pk/downloads/2-Walkin Interview Support Staff- 8 Positions.pdf
+https://fabs.gov.pk/downloads/Tender Cancelation Circular.pdf
+https://fabs.gov.pk/downloads/Procurement Plan (Sehal) FY 2024-25.pdf
+https://fabs.gov.pk/downloads/fabs bid.pdf
+https://fabs.gov.pk/downloads/Proc Plan 2020-21.pdf
+https://fabs.gov.pk/downloads/Proc Plan 2023-24.pdf
+https://fabs.gov.pk/downloads/Procurement Plan FY 2018-19.pdf
+https://fabs.gov.pk/downloads/Final Proc Plan 2019-20 (PPRA Copy)..pdf
+https://fabs.gov.pk/downloads/Tender Circular April.pdf
+https://fabs.gov.pk/downloads/02-Handbook-Accounting-Guidelines.pdf
+https://fabs.gov.pk/downloads/06-Accounting-Code-for-SAEs.pdf
+https://fabs.gov.pk/downloads/04-Financial-Reporting-Manual.pdf
+https://fabs.gov.pk/downloads/07-APPM-Forms.pdf
+https://fabs.gov.pk/downloads/a-Master copy-Revised after pre-bid-Master Print RFP-40-April, 2024-EPAD-Proc. of Stationery & Misc items under ID-1164 and IB-9377-08.05.2024.pdf
+https://fabs.gov.pk/downloads/01-Manual-of-Accounting-Principles.pdf
+https://fabs.gov.pk/downloads/Pre Bid MOM RFB-40.pdf
+https://fabs.gov.pk/downloads/RFB-38 PID Letter 07-02-24.pdf
+https://fabs.gov.pk/GOP.html
+https://www.finance.gov.pk/budget/spf_gr2025_28032025.pdf
+https://www.finance.gov.pk/budget/circular_05072021_1.pdf
+https://www.finance.gov.pk/budget/circular_09042025.pdf
+https://www.finance.gov.pk/budget/circular_07072022_1.pdf
+https://www.finance.gov.pk/budget/Budget_Call_Circular_2021_22.pdf
+https://www.finance.gov.pk/budget/om_1_1-aobc_22042025.pdf
+https://www.finance.gov.pk/OM_Fund_Allocation_for_PSDP_2019_20.pdf
+https://www.finance.gov.pk/budget/circular_05072021_2.pdf
+https://www.finance.gov.pk/budget/CM&TSA%20Rules_2020.pdf
+https://www.finance.gov.pk/budget/Debt_Policy_January_2025.pdf
+https://www.finance.gov.pk/budget/circular_09052022.pdf
+https://www.finance.gov.pk/budget/circular_31122024.pdf
+https://www.finance.gov.pk/budget/Strategies_for_Release_of_Budget_4thQuarter__04042022.pdf
+https://www.finance.gov.pk/budget/CM&TSA_Rules_2024.pdf
+https://www.finance.gov.pk/budget/MTBSP_2024_25_2026_27.pdf
+https://www.finance.gov.pk/budget/MTBF_Performance_Based_Budgets.docx
+https://www.finance.gov.pk/budget/circular_18022025.pdf
+https://www.finance.gov.pk/budget/mid_year_Budget_review_2020_21.pdf
+https://www.finance.gov.pk/budget/circular_12052023.pdf
+https://www.finance.gov.pk/budget/circular_24082022_1.pdf
+https://www.finance.gov.pk/budget/circular_13012025.pdf
+https://www.finance.gov.pk/budget/Budget_in_Brief_2010_11.pdf
+https://www.finance.gov.pk/budget/Amendment_28042021.pdf
+https://www.finance.gov.pk/budget/circular_25052023.pdf
+https://www.finance.gov.pk/budget/SRO_AML_CFT_Powers_Fuctions_Rules_2020.pdf
+https://www.finance.gov.pk/budget/circular_24082023.pdf
+https://www.finance.gov.pk/budget/Receipt_and_Payment_Rules.pdf
+https://www.finance.gov.pk/budget/circular_24062021.pdf
+https://www.finance.gov.pk/budget/PFM_Act_2019.pdf
+https://www.finance.gov.pk/budget/Supervisory_Board_Notification.pdf
+https://www.finance.gov.pk/budget/circular_11042022.pdf
+https://www.finance.gov.pk/budget/circular_06072023_1.pdf
+https://www.finance.gov.pk/budget/circular_07072022_2.pdf
+https://www.finance.gov.pk/budget/circular_06072023_2.pdf
+https://www.finance.gov.pk/budget/NS_AML_CFT_Regulations_2020.pdf
+https://www.finance.gov.pk/tmu.pdf
+https://www.mohtasib.gov.pk/Detail/NWRkZDJmMTYtZmRiOC00MTAyLTk2ZDItZGVlNTkxMTdmNTEz
+https://www.finance.gov.pk/poverty/notification.pdf
+https://www.finance.gov.pk/functions_FD.pdf
+https://www.finance.gov.pk/budget/Special_Assignment_Account_28042021.pdf
+https://www.finance.gov.pk/budget/Receipt_and_Payment_Rules_V_II_2021.pdf
+https://www.finance.gov.pk/budget/grant_in_aid_rules2025_28032025.pdf
+https://www.finance.gov.pk/budget/circular_30032023.pdf
+https://www.finance.gov.pk/budget/circular_24082022_2.pdf
+https://www.finance.gov.pk/budget/Fiscal_Policy_2024.pdf
+https://www.finance.gov.pk/budget/Grant_in_Aid_Rules_2021.pdf
+https://www.finance.gov.pk/budget/recurrent_budget_FY2024_25.pdf
+https://www.finance.gov.pk/nfc/reportofthenfc_2009.pdf
+https://www.finance.gov.pk/budget/circular_09052022_1.pdf
+https://www.finance.gov.pk/budget/Draft_AML_CFT_Rules_2019.pdf
+https://www.finance.gov.pk/budget/Amendment_27042021.pdf
+https://www.finance.gov.pk/budget/Mid_Year_Review_Report_FY2023-24.pdf
+https://www.finance.gov.pk/Budget_Manual_1stEdition_2020.pdf
+https://www.finance.gov.pk/budget/development_budget_FY2024_25.pdf
+https://www.finance.gov.pk/poverty/training_05072023_1.pdf
+https://www.finance.gov.pk/poverty/training_01112024_3.pdf
+https://www.finance.gov.pk/poverty/training_16082023.pdf
+https://www.finance.gov.pk/poverty/training_13072023_2.pdf
+https://www.finance.gov.pk/poverty/training_27112023_2.pdf
+https://www.finance.gov.pk/poverty/training_25072023.pdf
+https://www.finance.gov.pk/poverty/training_23062023.pdf
+https://www.finance.gov.pk/poverty/training_25102023_1.pdf
+https://www.finance.gov.pk/poverty/training_07082023_2.pdf
+https://www.finance.gov.pk/poverty/training_02062023.pdf
+https://www.finance.gov.pk/poverty/training_05062023.pdf
+https://www.finance.gov.pk/poverty/training_16012025_1.pdf
+https://www.finance.gov.pk/poverty/training_25042024_1.pdf
+https://www.finance.gov.pk/poverty/training_05012024_2.pdf
+https://www.finance.gov.pk/poverty/training_14022024_2.pdf
+https://www.finance.gov.pk/poverty/training_18082023_1.pdf
+https://www.finance.gov.pk/poverty/training_14022024_3.pdf
+https://www.finance.gov.pk/poverty/training_08082023.pdf
+https://www.finance.gov.pk/poverty/training_18072023_3.pdf
+https://www.finance.gov.pk/poverty/training_21122023_4.pdf
+https://www.finance.gov.pk/poverty/training_16012024.pdf
+https://www.finance.gov.pk/poverty/training_06072023_1.pdf
+https://www.finance.gov.pk/poverty/training_14022024_4.pdf
+https://www.finance.gov.pk/poverty/training_19092023.pdf
+https://www.finance.gov.pk/poverty/training_25032025.pdf
+https://www.finance.gov.pk/poverty/training_11042023_3.pdf
+https://www.finance.gov.pk/poverty/training_13122023_2.pdf
+https://www.finance.gov.pk/poverty/training_20022024.pdf
+https://www.finance.gov.pk/poverty/training_13122023_1.pdf
+https://www.finance.gov.pk/poverty/training_12062023.pdf
+https://www.finance.gov.pk/poverty/training_24012024.pdf
+https://www.finance.gov.pk/poverty/training_14022024_5.pdf
+https://www.finance.gov.pk/poverty/training_28082023.pdf
+https://www.finance.gov.pk/poverty/training_13072023_1.pdf
+https://www.finance.gov.pk/poverty/training_23112023.pdf
+https://www.finance.gov.pk/poverty/training_30032023.pdf
+https://www.finance.gov.pk/poverty/training_06072023_2.pdf
+https://www.finance.gov.pk/poverty/training_291202023_2.pdf
+https://www.finance.gov.pk/poverty/training_28042023_2.pdf
+https://www.finance.gov.pk/poverty/training_23022024_2.pdf
+https://www.finance.gov.pk/poverty/training_9102023.pdf
+https://www.finance.gov.pk/poverty/training_11012024_1.pdf
+https://www.finance.gov.pk/poverty/training_12012024_3.pdf
+https://www.finance.gov.pk/poverty/training_25042024_2.pdf
+https://www.finance.gov.pk/poverty/training_29122023.pdf
+https://www.finance.gov.pk/poverty/training_28042023_1.pdf
+https://www.finance.gov.pk/poverty/training_09082023_4.pdf
+https://www.finance.gov.pk/poverty/training_17082023.pdf
+https://www.finance.gov.pk/poverty/training_12112024_3.pdf
+https://www.finance.gov.pk/poverty/training_07062023_3.pdf
+https://www.finance.gov.pk/poverty/training_06122023_2.pdf
+https://www.finance.gov.pk/poverty/training_9102023_3.pdf
+https://www.finance.gov.pk/poverty/training_12012024_4.pdf
+https://www.finance.gov.pk/poverty/training_23022024_1.pdf
+https://www.finance.gov.pk/poverty/training_14092023_3.pdf
+https://www.finance.gov.pk/poverty/training_11012024_3.pdf
+https://www.finance.gov.pk/poverty/training_21122023_2.pdf
+https://www.finance.gov.pk/poverty/training_12012024_6.pdf
+https://www.finance.gov.pk/poverty/training_09082023_5.pdf
+https://www.finance.gov.pk/poverty/training_06122023_1.pdf
+https://www.finance.gov.pk/poverty/training_15082023.pdf
+https://www.finance.gov.pk/poverty/training_07082023_1.pdf
+https://www.finance.gov.pk/poverty/training_21122023_3.pdf
+https://www.finance.gov.pk/poverty/training_14092023_1.pdf
+https://www.finance.gov.pk/poverty/training_07062023_2.pdf
+https://www.finance.gov.pk/poverty/training_12012024_5.pdf
+https://www.finance.gov.pk/poverty/training_02122024.pdf
+https://www.finance.gov.pk/poverty/training_01112024_1.pdf
+https://www.finance.gov.pk/poverty/training_06122023_3.pdf
+https://www.finance.gov.pk/poverty/training_09082023_1.pdf
+https://www.finance.gov.pk/poverty/training_21122023_1.pdf
+https://www.finance.gov.pk/poverty/training_02102023.pdf
+https://www.finance.gov.pk/poverty/training_12112024_4.pdf
+https://www.finance.gov.pk/poverty/training_01112024_2.pdf
+https://www.finance.gov.pk/poverty/training_06022024_3.pdf
+https://www.finance.gov.pk/poverty/training_11042023_1.pdf
+https://www.finance.gov.pk/poverty/training_14092023_2.pdf
+https://www.finance.gov.pk/poverty/training_12022024.pdf
+https://www.finance.gov.pk/poverty/training_12112024_2.pdf
+https://www.finance.gov.pk/poverty/training_18052023.pdf
+https://www.finance.gov.pk/poverty/training_15112024_2.pdf
+https://www.finance.gov.pk/poverty/training_27042023.pdf
+https://www.finance.gov.pk/poverty/training_13072023_3.pdf
+https://www.finance.gov.pk/poverty/training_28032024_1.pdf
+https://www.finance.gov.pk/poverty/training_22012024.pdf
+https://www.finance.gov.pk/poverty/training_07052024-2.pdf
+https://www.finance.gov.pk/poverty/training_25082023.pdf
+https://www.finance.gov.pk/poverty/training_15112024_3.pdf
+https://www.finance.gov.pk/poverty/training_25112024.pdf
+https://www.finance.gov.pk/poverty/training_14072023_1.pdf
+https://www.finance.gov.pk/poverty/training_29012025.pdf
+https://www.finance.gov.pk/poverty/training_04072023.pdf
+https://www.finance.gov.pk/poverty/training_01122023.pdf
+https://www.finance.gov.pk/poverty/training_18072023_1.pdf
+https://www.finance.gov.pk/poverty/training_15022024.pdf
+https://www.finance.gov.pk/poverty/training_0312024_3.pdf
+https://www.finance.gov.pk/poverty/training_25032024_3.pdf
+https://www.finance.gov.pk/poverty/training_12112024_1.pdf
+https://www.finance.gov.pk/poverty/training_27102023.pdf
+https://www.finance.gov.pk/poverty/training_15112024_1.pdf
+https://www.finance.gov.pk/poverty/training_05072023_2.pdf
+https://www.finance.gov.pk/poverty/training_9102023_2.pdf
+https://www.finance.gov.pk/poverty/training_0312024_2.pdf
+https://www.finance.gov.pk/poverty/training_18122023.pdf
+https://www.finance.gov.pk/poverty/training_18082023_2.pdf
+https://www.finance.gov.pk/poverty/training_07062023_1.pdf
+https://www.finance.gov.pk/poverty/training_15112023.pdf
+https://www.finance.gov.pk/poverty/training_27112023_1.pdf
+https://www.finance.gov.pk/poverty/training_11042023_2.pdf
+https://www.finance.gov.pk/poverty/training_07112023.pdf
+https://www.finance.gov.pk/poverty/training_14022024_1.pdf
+https://www.finance.gov.pk/poverty/training_06022024_1.pdf
+https://www.finance.gov.pk/poverty/training_09082023_2.pdf
+https://www.finance.gov.pk/poverty/training_27032025.pdf
+https://www.finance.gov.pk/poverty/training_27092023.pdf
+https://www.finance.gov.pk/poverty/training_12052023.pdf
+https://www.finance.gov.pk/poverty/training_19122023.pdf
+https://www.finance.gov.pk/survey/chapters_21/Annex I Contingent liabilities.pdf
+https://www.finance.gov.pk/survey/chapters_21/02-Agriculture.pdf
+https://www.finance.gov.pk/survey/chapters_21/09-Public debt.pdf
+https://www.finance.gov.pk/survey/chapters_21/07-Inflation.pdf
+https://www.finance.gov.pk/survey/chapters_21/Economic_Indicators.pdf
+https://www.finance.gov.pk/survey/chapters_21/Annex III SEZones.pdf
+https://www.finance.gov.pk/survey/chapters_21/04-Fiscal.pdf
+https://www.finance.gov.pk/survey/chapters_21/12-Population.pdf
+https://www.finance.gov.pk/survey/chapters_21/Annex II Tax expenditure.pdf
+https://www.finance.gov.pk/budget/EM_of_Federal_Receipts_Foreign_2020_21.pdf
+https://www.finance.gov.pk/budget/Statement_Contingent_Liabilities_of_FG.pdf
+https://www.finance.gov.pk/budget/Demands_for_Grants_Appropriations_2020_21.pdf
+https://www.finance.gov.pk/budget/Budget_in_Brief_2020_21_Urdu1.pdf
+https://www.finance.gov.pk/budget/budget_speech_urdu_2020_21.pdf
+https://www.finance.gov.pk/budget/Annual_budget_Statement_Urdu_202021.pdf
+https://www.finance.gov.pk/budget/Statement_MTBS_2020_23.pdf
+https://www.finance.gov.pk/budget/budget_speech_english_2020_21.pdf
+https://www.finance.gov.pk/budget/Details_of_Demands_for_Grants_Appropriations_Vol_III.pdf
+https://www.finance.gov.pk/budget/Statement_Fiscal_Risks.pdf
+https://www.finance.gov.pk/budget/Excess_Demands_for_Grants_Appropriations_2009_10_2013_14.pdf
+https://www.finance.gov.pk/budget/Budget_2022_23/8_Excess_Demands_for_Grants_and_Appropriations.pdf
+https://www.finance.gov.pk/budget/Budget_2022_23/Annual_Budget_Statement_Urdu.pdf
+https://www.finance.gov.pk/budget/Budget_2022_23/MTBSP_2022_23___2024_25.pdf
+https://www.finance.gov.pk/budget/Budget_2022_23/Budget_Speech_urdu_2022_23.pdf
+https://www.finance.gov.pk/budget/Budget_2022_23/Annual_Budget_Statement_English.pdf
+https://www.finance.gov.pk/budget/Budget_2022_23/Demands_for_Grants_and_Appropriations.pdf
+https://www.finance.gov.pk/budget/Budget_2022_23/Budget_in_Brief_English.pdf
+https://www.finance.gov.pk/budget/Budget_2022_23/Budget_in_Brief_Urdu.pdf
+https://www.finance.gov.pk/publications/SOEs_Policy_Report_2023.pdf
+https://www.finance.gov.pk/budget/Budget_2023_24/Windup_Speech_2023_24_urdu.pdf
+https://www.finance.gov.pk/circulars/circular_31012025.pdf
+https://www.finance.gov.pk/economic/economic_update_July_2023.pdf
+https://www.finance.gov.pk/FCCL_Guidelines_01012024.pdf
+https://www.finance.gov.pk/circulars/Draft_PAM_Guidlines_2024.pdf
+https://www.finance.gov.pk/economic/economic_update_March_2024.pdf
+https://www.finance.gov.pk/economic/economic_update_October_2024.pdf
+https://www.finance.gov.pk/publications/C_Level_Guidlelines_from_CMU.pdf
+https://www.finance.gov.pk/circulars/circular_21092022.pdf
+https://www.finance.gov.pk/circulars/circular_03032021_1.pdf
+https://www.finance.gov.pk/economic/economic_update_January_2023.pdf
+https://www.finance.gov.pk/CashManagement_2019_2029.pdf
+https://www.finance.gov.pk/budget/Budget_2021_22/Evidence_Based_Revenue_Forecasting_FY_2021_22.pdf
+https://www.finance.gov.pk/economic/economic_update_July_2022.pdf
+https://www.finance.gov.pk/budget/NSS_AML_CFT_Rules_2019.pdf
+https://www.finance.gov.pk/SBP_Amendment_Act_2021.pdf
+https://www.finance.gov.pk/fiscal/July_September_2022.pdf
+https://www.finance.gov.pk/circulars/circular_03032021_2.pdf
+https://www.finance.gov.pk/publications/DSA_ReportFY2022_23.pdf
+https://www.finance.gov.pk/SOEs_Act_2023.pdf
+https://www.finance.gov.pk/SBP_Act_2021.pdf
+https://www.finance.gov.pk/circulars/circular_17022023.pdf
+https://www.finance.gov.pk/budget/CDNS_OPS_Bills_2020.pdf
+https://www.finance.gov.pk/economic/economic_update_April_2022.pdf
+https://www.finance.gov.pk/PublicFinanceManagementAct_2019.pdf
+https://www.finance.gov.pk/circulars/circular_23022022.pdf
+https://www.finance.gov.pk/economic/economic_update_March_2023.pdf
+https://www.finance.gov.pk/jobs/adv_27022022.pdf
+https://www.finance.gov.pk/SBP_Brief_2021.pdf
+https://www.finance.gov.pk/75_Years_Economic_Journey_of_Pakistan.pdf
+https://www.finance.gov.pk/fiscal/July_December_2022.pdf
+https://www.finance.gov.pk/economic/economic_update_October_2022.pdf
+https://www.finance.gov.pk/economic/economic_update_April_2023.pdf
+https://www.finance.gov.pk/publications/Federal_Footprint_SOEs_Consolidated_Report_FY2020_22.pdf
+https://www.finance.gov.pk/publications/Aggregate_Annual_Report_SOEs_FY2023.pdf
+https://www.finance.gov.pk/economic/economic_update_May_2024.pdf
